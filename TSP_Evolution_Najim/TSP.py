@@ -1,5 +1,3 @@
-# Othman Najim 201553443 , Hasnat Khan 201249851 , Tyson Owens
-
 from City import City
 
 import random
